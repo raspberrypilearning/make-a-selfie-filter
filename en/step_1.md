@@ -1,45 +1,30 @@
 ## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
+Use the Face Sensing tools in Scratch to make a super-simple “face filter” project!
 
---- print-only ---
+You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
-![ALT TEXT](images/IMAGE.png)
+- Sticks to your face
+- Tilts when you tilt your head
+- Can be remixed by changing one dropdown so the sprite sticks to your nose, mouth, ears, eyes, and more
 
---- /print-only ---
+You will need a **webcam** to complete this project.
 
---- no-print ---
+![A Scratch project with an accessory (like a hat or glasses) attached to a face in a webcam video feed.](images/whatyouwillmake.png)
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+You will need:
 
---- /no-print ---
+- A computer with a webcam (built-in or plugged in)
+- Internet access
+- Scratch (you can use it without signing in, but signing in lets you save)
 
---- no-print ---
+--- collapse ---
+---
+title: Where are my images stored?
+---
 
-Video embed
+- Face Sensing works on your device.
+- Your webcam images are not stored or sent to Scratch or other sites.
+- The model is not trained on your video while you use it.
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c
+--- /collapse ---
