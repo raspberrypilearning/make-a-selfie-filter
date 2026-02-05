@@ -1,6 +1,8 @@
 ## What you will make
 
-Use the Face Sensing tools in Scratch to make a super-simple “face filter” project!
+Use the Face Sensing tools in Scratch to make a super-simple “selfie filter” project!
+
+
 
 You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
@@ -10,7 +12,7 @@ You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
 You will need a **webcam** to complete this project.
 
-![A Scratch project with an accessory (like a hat or glasses) attached to a face in a webcam video feed.](images/whatyouwillmake.png)
+![Scratch Selfie Filter](images/SelfieDemo.png)
 
 You will need:
 
