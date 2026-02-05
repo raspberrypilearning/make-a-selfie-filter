@@ -1,4 +1,4 @@
-Set up the project
+## Set up the project
 
 You will create a new Scratch project and turn on Face Sensing{:class="block3extensions"} so Scratch can follow parts of your face using your webcam.
 
