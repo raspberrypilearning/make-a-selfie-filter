@@ -1,11 +1,14 @@
-title: Project title in sentence case
+title: Selfie Filter
 hero_image: images/banner.png
-description: A short description of the project
-listed: false
+description: Make a selfie filter in Scracth using the Facial Recognision extension blocks
+version: 1
+listed: true
 pdf: false
 steps:
   - title: What you will make
-  - title: Step title
+  - title: Set up the project
+  - title: Make a hat follow the top of your head
+  - title: Add nose, mouth, ears, etc
     completion:
       - engaged      
   - title: Challenge
