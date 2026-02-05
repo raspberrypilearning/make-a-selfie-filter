@@ -1,10 +1,13 @@
 ## Set up the project
 
-You will create a new Scratch project and turn on Face Sensing{:class="block3extensions"} so Scratch can follow parts of your face using your webcam.
+You will create a new Scratch project and turn on Face Sensing so Scratch can follow parts of your face using your webcam.
 
+![SelfieFilter](images/SelfieDemo.png)
 --- task ---
 
 Open [Scratch](https://scratch.mit.edu){:target="_blank"}.
+
+![Scratch Menu](images/create.png)
 
 Click **Create** (top left).
 
@@ -16,6 +19,10 @@ Add the Face Sensing extension:
 
 - In the bottom-left of the editor, click the **Extensions** button (purple puzzle piece)
 - Click **Face Sensing**
+
+![Scratch Menu](images/extensions.png)
+
+![Scratch Menu](images/FaceSensing.png)
 
 --- /task ---
 
