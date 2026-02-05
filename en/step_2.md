@@ -12,7 +12,7 @@ Click **Create** (top left).
 
 --- task ---
 
-Add the Face Sensing{:class="block3extensions"} extension:
+Add the Face Sensing extension:
 
 - In the bottom-left of the editor, click the **Extensions** button (purple puzzle piece)
 - Click **Face Sensing**
