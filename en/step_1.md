@@ -2,8 +2,6 @@
 
 Use the Face Sensing tools in Scratch to make a super-simple “selfie filter” project!
 
-
-
 You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
 - Sticks to your face
