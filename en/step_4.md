@@ -1,4 +1,4 @@
-Add nose, mouth, ears, etc
+## Add nose, mouth, ears, etc
 
 You can make more accessories by duplicating your sprite, then changing the dropdown on the `go to [ v]` Face Sensing{:class="block3extensions"} block.
 
