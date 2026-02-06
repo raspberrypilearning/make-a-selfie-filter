@@ -8,6 +8,7 @@ steps:
   - title: What you will make
   - title: Set up the project
   - title: Make a hat follow the top of your head
+  - title: Tilt and resize your sprite
   - title: Add nose, mouth, ears, etc
     completion:
       - engaged      
