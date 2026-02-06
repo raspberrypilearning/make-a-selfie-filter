@@ -18,7 +18,7 @@ Choose a sprite:
 
 --- task ---
 
-Add code to the accessory sprite to make it follow your face:
+Add this code to the accessory sprite to make it follow your face:
 
 ![Scratch Menu](images/code1.png)
 
