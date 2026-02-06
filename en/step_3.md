@@ -20,13 +20,6 @@ Choose a sprite:
 
 Add code to the accessory sprite to make it follow your face:
 
-```blocks3
-when green flag clicked
-+forever
-go to [top of head]
-end
-```
-
 ![Scratch Menu](images/code1.png)
 
 --- /task ---
