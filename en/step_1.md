@@ -5,8 +5,8 @@ Use the Face Sensing tools in Scratch to make a super-simple “selfie filter”
 You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
 - Sticks to your face
-- Tilts when you tilt your head
-- Can be remixed by changing one dropdown so the sprite sticks to your nose, mouth, ears, eyes, and more
+- Tilts and resizes when you move your head
+- Can be duplicated to follow your nose, mouth, ears, eyes, and more.
 
 You will need a **webcam** to complete this project.
 
