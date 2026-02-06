@@ -10,7 +10,7 @@ You will make an accessory sprite (like a hat, glasses, or earrings) that:
 
 You will need a **webcam** to complete this project.
 
-![Scratch Selfie Filter](images/SelfieDemo.png)
+![Scratch Selfie Filter](images/banner.png)
 
 You will need:
 
