@@ -1,6 +1,6 @@
 ## Add nose, mouth, ears, etc
 
-You can make more accessories by duplicating your sprite, then changing the dropdown on the `go to [ v]` Face Sensing{:class="block3extensions"} block.
+You can make more accessories by duplicating your sprite, then changing the dropdown on the `go to [ v]` Face Sensing block.
 
 --- task ---
 
@@ -8,6 +8,8 @@ Duplicate your sprite:
 
 - Right-click the hat sprite in the sprite list
 - Click **duplicate**
+
+![Scratch Menu](images/duplicate.png)
 
 --- /task ---
 
@@ -21,6 +23,8 @@ Change the face feature it sticks to:
 go to [top of head v]
 
 to a different option (like `nose`, `between eyes`, `left ear`, or `right ear`).
+
+![Scratch blocks](images/code4.png)
 
 --- /task ---
 
