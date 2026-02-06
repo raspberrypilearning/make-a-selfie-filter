@@ -1,7 +1,4 @@
-## Challenge
---- challenge ---
-
-Pick one (or more):
+## Tilt and resize your sprite
 
 --- task ---
 
@@ -9,7 +6,7 @@ Make the accessory resize with you.
 
 If you have not already, add this inside the `forever` loop:
 
-set size to face size
+![Scratch blocks](images/code2.png)
 
 Tip: If it looks too big or too small, try adjusting the costume size in the costume editor, or experiment with size blocks in Scratch.
 
