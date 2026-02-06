@@ -9,8 +9,6 @@ Open [Scratch](https://scratch.mit.edu){:target="_blank"}.
 
 ![Scratch Menu](images/create.png)
 
-![Scratch Menu](images/extensions.png)
-
 Click **Create** (top left).
 
 --- /task ---
@@ -20,6 +18,9 @@ Click **Create** (top left).
 Add the Face Sensing extension:
 
 - In the bottom-left of the editor, click the **Extensions** button (purple puzzle piece)
+
+![Scratch Menu](images/extensions.png)
+
 - Click **Face Sensing**
 
 ![Scratch Menu](images/FaceSensing.png)
