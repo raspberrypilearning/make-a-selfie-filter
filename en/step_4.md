@@ -2,7 +2,7 @@
 
 --- task ---
 
-Make the accessory resize with you.
+Make the sprite resize with you.
 
 If you have not already, add this inside the `forever` loop:
 
@@ -14,17 +14,9 @@ Tip: If it looks too big or too small, try adjusting the costume size in the cos
 
 --- task ---
 
-Hide accessories when no face is detected.
+Tilt the sprite as you tilt your head.
 
-Use Face Sensing{:class="block3extensions"} blocks to check if a face is detected, then show/hide.
-
-Example idea:
-
-forever
-  if <a face is detected?> then
-    show
-  else
-    hide
+![Scratch blocks](images/code3.png)
 
 --- /task ---
 
