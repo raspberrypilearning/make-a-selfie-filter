@@ -1,4 +1,3 @@
-
 ## Set up the project
 
 You will create a new Scratch project and turn on Face Sensing so Scratch can follow parts of your face using your webcam.
