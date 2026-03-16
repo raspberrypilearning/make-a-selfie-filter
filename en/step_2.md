@@ -6,9 +6,7 @@ You will create a new Scratch project and turn on Face Sensing so Scratch can fo
 
 Open [Scratch](https://scratch.mit.edu){:target="_blank"}.
 
-![Scratch Menu](create.png)
-
-![Scratch Menu](extensions.png)
+![Scratch Menu](images/create.png)
 
 Click **Create** (top left).
 
@@ -16,12 +14,15 @@ Click **Create** (top left).
 
 --- task ---
 
-Add the Face Sensing{:class="block3extensions"} extension:
+Add the Face Sensing extension:
 
 - In the bottom-left of the editor, click the **Extensions** button (purple puzzle piece)
+
+![Scratch Menu](images/extensions.png)
+
 - Click **Face Sensing**
 
-![Scratch Menu](FaceSensing.png)
+![Scratch Menu](images/FaceSensing.png)
 
 --- /task ---
 
