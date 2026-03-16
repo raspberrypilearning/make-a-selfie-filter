@@ -6,7 +6,7 @@ Pick an accessory sprite (like a hat) and make it stick to your head, resize wit
 
 Choose a sprite:
 
-- Delete the default sprite (right-click the sprite > **delete**)
+- Delete the default sprite
 
 ![Scratch Menu](images/delete.png)
 
