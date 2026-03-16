@@ -31,3 +31,5 @@ Test: Click the green flag and move your head around.
 - Does the hat stay on your head?
 
 --- /task ---
+
+**Tip**: Adjust the costume relative to its **costume center** to position accessories.
