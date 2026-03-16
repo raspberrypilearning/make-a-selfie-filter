@@ -2,14 +2,19 @@ title: Selfie Filter
 hero_image: images/banner.png
 description: Make a selfie filter in Scratch using the Facial Recognition extension blocks
 version: 1
-listed: true
+listed: false
+copyedit: false
 pdf: false
 steps:
   - title: What you will make
   - title: Set up the project
+    completion:
+    - engaged
   - title: Make a hat follow the top of your head
   - title: Tilt and resize your sprite
-  - title: Add nose, mouth, ears, etc  
+  - title: Add nose, mouth, ears, etc
+    completion:
+    - internal
   - title: Challenge
     challenge: true
     completion:
