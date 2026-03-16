@@ -1,7 +1,6 @@
 ## Challenge
 
-### Switch costumes for a “filter pack” 
-
+Switch costumes for a “filter pack” 
 
 --- task ---
 
