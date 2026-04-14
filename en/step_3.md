@@ -1,6 +1,6 @@
-## Make a hat follow the top of your head
+## Put a hat on your head
 
-Pick an accessory sprite (like a hat) and make it stick to your head, resize with you, and rotate when you tilt.
+Choose an accessory sprite (like a hat) and make it stick to your head, resize to fit you as you move, and rotate when you tilt your head.
 
 --- task ---
 
@@ -8,28 +8,29 @@ Choose a sprite:
 
 - Delete the default sprite
 
-![Scratch Menu](images/delete.png)
+![Clicking on the 'Delete' icon by the Sprite1 sprite.](images/delete.png)
 
-- Click **Choose a Sprite**
-- Pick something like a **hat** (or paint your own)
-![Scratch Menu](images/Choose.png)![Scratch Menu](images/Paint.png)
+- Click on **Choose a Sprite** (or paint your own sprite)
+- Choose something like a **hat**
 
---- /task ---
+!['Choose a Sprite' highlighted in the 'Choose a Sprite' menu.](images/Choose.png) 
 
---- task ---
-
-Add this code to the accessory sprite to make it follow your face:
-
-![Scratch Menu](images/code1.png)
+!['Paint' highlighted in the 'Choose a Sprite' menu.](images/Paint.png)
 
 --- /task ---
 
 --- task ---
 
-Test: Click the green flag and move your head around.
+Add this code to the **accessory** sprite to make it follow your face:
 
-- Does the hat stay on your head?
+![A script with three blocks: 'when green flag clicked' followed by a 'forever' block with a 'go to top of head' block inside it.](images/code1.png)
 
 --- /task ---
 
-**Tip**: Adjust the costume relative to its **costume center** to position accessories.
+--- task ---
+
+**Test:** Click on the green flag and move your head around. Does the accessory stay on your head?
+
+--- /task ---
+
+**Tip:** To position your accessory, adjust the costume relative to its **costume center**.

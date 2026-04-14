@@ -1,9 +1,9 @@
 ## Challenge
 
-Switch costumes for a “filter pack” 
+Create a 'filter pack' and switch costumes to change between your filters.
 
 --- task ---
 
-- Give one sprite 2 to 3 costumes, then use a key press or a click to change costume (example: `next costume`).
+Give one sprite 2 to 3 costumes, then use a key press or a click to change the costume (for example, with `next costume`{:class="block3looks"}).
 
 --- /task ---
